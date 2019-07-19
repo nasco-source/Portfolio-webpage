@@ -1,0 +1,171 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #1a3547;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+  line-height: 1.6em;
+}
+
+.main-nav {
+  float: right;
+  margin: 20px;
+  padding: 40px;
+  word-spacing: 50px;
+}
+
+
+.name {
+  background: #1a3547;
+  color: #fff;
+  padding: 40px;
+  text-transform: inherit;
+  letter-spacing: 0.5px;
+}
+
+.profile-image {
+  display: block;
+  margin: auto;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  image-rendering: inherit;
+}
+
+#quote{
+  margin: 40px;
+  padding: 10px 20px;
+}
+
+.background {
+  color: #fff;
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  border-radius: 50%;
+}
+
+.my-info {
+  margin:  30px;
+  padding: 20px;
+  font-weight: 300px;
+}
+
+.goals {
+  color: #fff;
+  text-align: center;
+  margin: 40px;
+  padding: 20px;
+}
+
+.skills {
+  margin: 40px;
+  padding: 20px;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.skills li {
+  display: inline-block;
+  padding: 40px ;
+  margin: 0px 40px;
+  border:2px solid #ffff;
+
+}
+
+a:link {
+  color: #fff;
+}
+#html {
+  border:2px solid #ffff;
+  border-radius: 100%;
+  color: #000000;
+  background: #fff;
+  font-weight: 300px;
+
+}
+
+#css {
+  border:2px solid #ffff;
+  border-radius: 100%;
+  color: #000000;
+  background: #fff;
+  font-weight: 300px;
+
+}
+
+#js {
+  border:2px solid #ffff;
+  border-radius: 100%;
+  color: #000000;
+  background: #fff;
+  font-weight: 300px;
+
+}
+
+#boots4 {
+  border:2px solid #ffff;
+  border-radius: 100%;
+  color: #000000;
+  background: #fff;
+  font-weight: 300px;
+}
+
+/*start formatting css here*/
+.news {
+  text-align: center;
+  font-weight: 300px;
+  margin: 40px;
+  padding: 40px;
+}
+
+.sign-up{
+  text-align: center;
+  margin: 40px;
+  padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.social {
+  color: #fff;
+  border-radius: 10px;
+}
+
+
+#main-footer {
+  background: #1a3547;
+  color: #fff;
+  text-align: center;
+  padding: 60px 0px;
+}
+
+/* STYLING OF EXPERINCE.HTML*/
+
+#summary {
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+  text-transform: capitalize;
+  word-spacing: 10px;
+}
+
+#vision {
+  font-weight: bold;
+  text-align: center;
+  margin: 10px;
+  text-transform: capitalize;
+  word-spacing: 10px;
+}
